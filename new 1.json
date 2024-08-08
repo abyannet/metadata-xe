@@ -1,0 +1,9 @@
+{
+  "title": "Panduan Lengkap tentang JSON",
+  "author": "Jane Doe",
+  "date": "2024-08-08",
+  "version": "1.0",
+  "description": "Artikel ini memberikan panduan lengkap tentang penggunaan JSON.",
+  "keywords": ["JSON", "data", "metadata"],
+  "license": "MIT"
+}
